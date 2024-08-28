@@ -6,4 +6,4 @@ Some of my favorite things about CS193:
 - Homework relates to things I need IRL, like GitHub!
 
 
-```I'm looking forward to a great year!```
+I'm looking forward to a great year!
